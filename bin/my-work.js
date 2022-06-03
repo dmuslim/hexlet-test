@@ -1,2 +1,3 @@
 #!/usr/bin/env node
-console.log('Welcome, my dear friend!');
+import runMyWork from '../src/cli.js'
+runMyWork();
